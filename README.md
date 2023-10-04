@@ -4,7 +4,7 @@ This is an template svelte project showing the use of tailwind, daisyui, and the
 ## Check it out on vercel
 https://svelte-daisy-tailwind.vercel.app/
 
-## Alternatively, clone the repo and do this:
+## Or clone the repo and paste these lines:
     cd svelte-daisy-tailwind/
     npm install
     npm install -D tailwindcss postcss autoprefixer
