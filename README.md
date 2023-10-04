@@ -1,7 +1,11 @@
 # What is this?
-This is an template project showing use of tailwind, daisyui, and theme-change.
+This is an template svelte project showing the use of tailwind, daisyui, and theme-change.
 
-## After cloning do this:
+## Check it out on vercel
+https://svelte-daisy-tailwind.vercel.app/
+
+## Alternatively, clone the repo and do this:
+    cd svelte-daisy-tailwind/
     npm install
     npm install -D tailwindcss postcss autoprefixer
     npm i -D daisyui@latest
