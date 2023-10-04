@@ -7,12 +7,15 @@
 <div class="hero min-h-screen bg-base-200">
 	<div class="hero-content text-center">
 		<div class="max-w-md">
-			<h1 class="text-5xl font-bold">Hello there</h1>
+			<h1 class="text-5xl font-bold">Hi, I'm Josiah</h1>
 			<p class="py-6">
-				Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem
-				quasi. In deleniti eaque aut repudiandae et a id nisi.
+				I'm a developer, producer, and student	
 			</p>
-			<button class="btn btn-primary">Get Started</button>
+			<a href="#projects" class="btn btn-primary">My Projects</a>
 		</div>
 	</div>
+</div>
+
+<div id="projects" class="min-h-screen">
+	<h1 class="pt-7 text-center text-5xl font-bold">My Projects</h1>
 </div>
